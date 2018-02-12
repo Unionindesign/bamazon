@@ -1,0 +1,19 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "storefront app using mysql, node.js and npm inquirer and mysql2 packages",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node.js",
+    "mysql"
+  ],
+  "author": "SM",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^5.1.0",
+    "mysql2": "^1.5.2"
+  }
+}
